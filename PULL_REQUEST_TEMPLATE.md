@@ -1,4 +1,4 @@
-# Title: Provide a concise and descriptive title for your PR.
+# Title/ISSUE-CODE: Provide a concise and descriptive title for your PR.
 
 ## Visual Evidence
 
@@ -22,9 +22,9 @@ Explain why this change is important and what problem it solves.
 
 ## Related Issue
 
-If applicable, please link to the issue that this PR addresses: "link to the issue"
+If applicable, please link to the issue that this PR addresses: ["ToolName issue"](link to the issue)
 
-- Closes #[x42x] <!-- Use x42x if no related issue -->
+- Closes #[x42x if no related issue]
 
 ## Change Type
 Please select the relevant options:
